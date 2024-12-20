@@ -7,16 +7,16 @@ ZkScholar
 
 ### Problem:
 Each year, over $250 billion in financial aid is distributed to students through outdated, inefficient, and insecure systems. These traditional processes are:
-- Cumbersome: Students must repeatedly submit sensitive personal and financial information to multiple institutions, creating frustration and unnecessary complexity.
-- Insecure: Centralized databases storing sensitive data are highly vulnerable to breaches, exposing students to identity theft and privacy violations.
-- Slow and Unreliable: Determining aid eligibility often takes weeks or months, while fund disbursements are delayed, leaving students unable to manage their finances, pay tuition, or continue their education without disruption.
+- **Cumbersome**: Students must repeatedly submit sensitive personal and financial information to multiple institutions, creating frustration and unnecessary complexity.
+- **Insecure**: Centralized databases storing sensitive data are highly vulnerable to breaches, exposing students to identity theft and privacy violations.
+- **Slow and Unreliable**: Determining aid eligibility often takes weeks or months, while fund disbursements are delayed, leaving students unable to manage their finances, pay tuition, or continue their education without disruption.
 These systemic inefficiencies lead to increased administrative burdens, data privacy concerns, and student financial instability.
 
 ### Solution:
 ZkScholar introduces a revolutionary approach to financial aid distribution: a streamlined, secure, and private platform that leverages blockchain technology and zk-SNARKs (zero-knowledge proofs) to eliminate inefficiencies while crucially preserving privacy. Below are several of ZkScholar’s unique value propositions:
-- Privacy-Preserving Submissions: Students can prove financial need without revealing sensitive personal or financial data. Instead of exposing raw information, zero-knowledge proofs validate eligibility privately and securely.
-- Transparent Yet Anonymous Verification: Colleges set financial aid criteria through a simple user interface. The platform matches eligible students to aid options while ensuring only anonymized eligibility results are visible to institutions.
-- Real-Time Feedback: Students receive immediate, transparent feedback on their aid eligibility, reducing uncertainty and accelerating decision-making.
+- **Privacy-Preserving Submissions**: Students can prove financial need without revealing sensitive personal or financial data. Instead of exposing raw information, zero-knowledge proofs validate eligibility privately and securely.
+- **Transparent Yet Anonymous Verification**: Colleges set financial aid criteria through a simple user interface. The platform matches eligible students to aid options while ensuring only anonymized eligibility results are visible to institutions.
+- **Real-Time Feedback**: Students receive immediate, transparent feedback on their aid eligibility, reducing uncertainty and accelerating decision-making.
 By replacing outdated systems with a fully on-chain, privacy-first platform, ZkScholar solves the core issues of insecurity, inefficiency, and delays in financial aid. Therefore, ZkScholar has the potential to be a transformative solution to a decades-old problem.
 
 ### Impact:
